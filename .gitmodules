@@ -1,0 +1,12 @@
+[submodule "connectorlib-mod"]
+	path = connectorlib-mod
+	url = https://github.com/meeplabsdev/connectorlib-mod.git
+	branch = main
+[submodule "connectorlib-server"]
+	path = connectorlib-server
+	url = https://github.com/meeplabsdev/connectorlib-server.git
+	branch = main
+[submodule "connectorlib-visualize"]
+	path = connectorlib-visualize
+	url = https://github.com/meeplabsdev/connectorlib-visualize.git
+	branch = main
