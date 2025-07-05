@@ -1,4 +1,4 @@
-![7_banner](https://github.com/user-attachments/assets/e4b96a57-c160-4d2a-a883-f50944f9c1ac)
+![7_banner_large](https://github.com/user-attachments/assets/b7ac9c4c-4274-405c-b479-1f2a436ccf36)
 [![Support me on Ko-Fi](https://img.shields.io/badge/croakandroll---?style=for-the-badge&logo=ko-fi&logoColor=white&label=Support%20me%20on%20Ko-Fi&labelColor=72a4f2&color=72a4f2)](https://ko-fi.com/croakandroll)
 [![Latest Release](https://img.shields.io/github/v/release/meeplabsdev/connectorlib-mod?style=for-the-badge&logo=github&logoColor=black&label=Latest%20Release&labelColor=72f2ae&color=72f2ae)](https://github.com/meeplabsdev/connectorlib-mod/releases/latest)
 
@@ -21,5 +21,5 @@ This is an ecosystem of components designed to interact with each other in order
 - Player pose (sneaking, swimming)
 - Player deaths
 - Per-server chat messages
-- Per-server chunk surface block data
+- Per-server chunk biome data
 - Per-server connection data (ping / latency)
